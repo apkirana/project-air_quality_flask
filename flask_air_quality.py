@@ -21,7 +21,7 @@ def home():
 
     # Generate a plot
     plt.figure(figsize=(10, 6))
-    sns.scatterplot(x='pm2.5_aqi_value', y=kde=True, data=df)
+    sns.scatterplot(x='pm2.5_aqi_value', y='aqi_value', data=df)
     plt.title('PM2.5 vs AQI')
     plt.xlabel('PM2.5')
     plt.ylabel('AQI')
