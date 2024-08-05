@@ -1,0 +1,380 @@
+country_name,city_name,aqi_value,aqi_category,co_aqi_value	,co_aqi_category,ozone_aqi_value,ozone_aqi_category,no2_aqi_value,no2_aqi_category,pm2.5_aqi_value,pm2.5_aqi_category
+Indonesia,Pontianak,44,Good,1,Good,15,Good,0,Good,44,Good
+Indonesia,Tidore,21,Good,0,Good,13,Good,0,Good,21,Good
+Indonesia,Sungaipenuh,17,Good,1,Good,13,Good,0,Good,17,Good
+Indonesia,Tarogong,88,Moderate,2,Good,53,Moderate,1,Good,88,Moderate
+Indonesia,Binjai,92,Moderate,2,Good,45,Good,0,Good,92,Moderate
+Indonesia,Pamekasan,54,Moderate,1,Good,35,Good,0,Good,54,Moderate
+Indonesia,Prabumulih,49,Good,1,Good,30,Good,0,Good,49,Good
+Indonesia,Pringsewu,63,Moderate,2,Good,40,Good,0,Good,63,Moderate
+Indonesia,Lubuk Pakam,98,Moderate,2,Good,47,Good,0,Good,98,Moderate
+Indonesia,Mojoagung,155,Unhealthy,3,Good,91,Moderate,2,Good,155,Unhealthy
+Indonesia,Lamongan,167,Unhealthy,3,Good,123,Unhealthy for Sensitive Groups,1,Good,167,Unhealthy
+Indonesia,Karang Tengah,105,Unhealthy for Sensitive Groups,2,Good,59,Moderate,1,Good,105,Unhealthy for Sensitive Groups
+Indonesia,Kembaran,54,Moderate,1,Good,29,Good,1,Good,54,Moderate
+Indonesia,Malang,67,Moderate,1,Good,36,Good,0,Good,67,Moderate
+Indonesia,Kutoarjo,58,Moderate,1,Good,28,Good,0,Good,58,Moderate
+Indonesia,Mataram,34,Good,1,Good,25,Good,0,Good,34,Good
+Indonesia,Mertoyudan,66,Moderate,1,Good,32,Good,1,Good,66,Moderate
+Indonesia,Driyorejo,157,Unhealthy,2,Good,84,Moderate,2,Good,157,Unhealthy
+Indonesia,Ngaglik,60,Moderate,1,Good,29,Good,1,Good,60,Moderate
+Indonesia,Purwakarta,101,Unhealthy for Sensitive Groups,2,Good,90,Moderate,1,Good,101,Unhealthy for Sensitive Groups
+Indonesia,Palembang,74,Moderate,2,Good,47,Good,0,Good,74,Moderate
+Indonesia,Pameungpeuk,97,Moderate,2,Good,70,Moderate,1,Good,97,Moderate
+Indonesia,Leuwiliang,264,Very Unhealthy,15,Good,8,Good,52,Moderate,264,Very Unhealthy
+Indonesia,Sidareja,189,Unhealthy,10,Good,7,Good,25,Good,189,Unhealthy
+Indonesia,Wlingi,176,Unhealthy,8,Good,10,Good,17,Good,176,Unhealthy
+Indonesia,Mlonggo,82,Moderate,2,Good,50,Good,1,Good,82,Moderate
+Indonesia,Ngoro,121,Unhealthy for Sensitive Groups,2,Good,60,Moderate,1,Good,121,Unhealthy for Sensitive Groups
+Indonesia,Ciampea,154,Unhealthy,4,Good,154,Unhealthy,2,Good,126,Unhealthy for Sensitive Groups
+Indonesia,Balaipungut,57,Moderate,2,Good,12,Good,2,Good,57,Moderate
+Indonesia,Bandung,198,Unhealthy,11,Good,6,Good,30,Good,198,Unhealthy
+Indonesia,Boyolali,201,Very Unhealthy,12,Good,2,Good,28,Good,201,Very Unhealthy
+Indonesia,Brebes,151,Unhealthy,5,Good,23,Good,10,Good,151,Unhealthy
+Indonesia,Sabang,40,Good,1,Good,23,Good,0,Good,40,Good
+Indonesia,Sumber,54,Moderate,1,Good,34,Good,0,Good,54,Moderate
+Indonesia,Waingapu,55,Moderate,0,Good,25,Good,0,Good,55,Moderate
+Indonesia,Balung,100,Unhealthy for Sensitive Groups,2,Good,45,Good,1,Good,100,Unhealthy for Sensitive Groups
+Indonesia,Wanaraja,57,Moderate,1,Good,29,Good,1,Good,57,Moderate
+Indonesia,Sukaraja,67,Moderate,1,Good,40,Good,1,Good,67,Moderate
+Indonesia,Prigen,153,Unhealthy,3,Good,84,Moderate,2,Good,153,Unhealthy
+Indonesia,Sibolga,35,Good,0,Good,14,Good,0,Good,35,Good
+Indonesia,Sumbawa,25,Good,1,Good,25,Good,0,Good,21,Good
+Indonesia,Klangenan,67,Moderate,1,Good,38,Good,1,Good,67,Moderate
+Indonesia,Kebonarum,65,Moderate,1,Good,32,Good,1,Good,65,Moderate
+Indonesia,Kebumen,61,Moderate,1,Good,34,Good,0,Good,61,Moderate
+Indonesia,Sidoarjo,153,Unhealthy,2,Good,58,Moderate,2,Good,153,Unhealthy
+Indonesia,Kaliwungu,113,Unhealthy for Sensitive Groups,3,Good,100,Unhealthy for Sensitive Groups,2,Good,113,Unhealthy for Sensitive Groups
+Indonesia,Genteng,41,Good,1,Good,25,Good,0,Good,41,Good
+Indonesia,Gatak,79,Moderate,2,Good,45,Good,1,Good,79,Moderate
+Indonesia,Cileungsi,146,Unhealthy for Sensitive Groups,3,Good,142,Unhealthy for Sensitive Groups,2,Good,146,Unhealthy for Sensitive Groups
+Indonesia,Ciranjang,109,Unhealthy for Sensitive Groups,2,Good,87,Moderate,1,Good,109,Unhealthy for Sensitive Groups
+Indonesia,Banjarmasin,42,Good,1,Good,20,Good,0,Good,42,Good
+Indonesia,Pacet,98,Moderate,2,Good,84,Moderate,1,Good,98,Moderate
+Indonesia,Wonosobo,81,Moderate,2,Good,48,Good,0,Good,81,Moderate
+Indonesia,Weleri,81,Moderate,2,Good,58,Moderate,0,Good,81,Moderate
+Indonesia,Martapura,28,Good,1,Good,20,Good,0,Good,28,Good
+Indonesia,Surabaya,152,Unhealthy,1,Good,45,Good,1,Good,152,Unhealthy
+Indonesia,Bojonegoro,104,Unhealthy for Sensitive Groups,2,Good,49,Good,0,Good,104,Unhealthy for Sensitive Groups
+Indonesia,Bone,17,Good,0,Good,17,Good,0,Good,14,Good
+Indonesia,Gresik,115,Unhealthy for Sensitive Groups,1,Good,43,Good,1,Good,115,Unhealthy for Sensitive Groups
+Indonesia,Sijunjung,42,Good,1,Good,20,Good,0,Good,42,Good
+Indonesia,Sleman,63,Moderate,1,Good,34,Good,1,Good,63,Moderate
+Indonesia,Talang,161,Unhealthy,7,Good,18,Good,15,Good,161,Unhealthy
+Indonesia,Lebaksiu,86,Moderate,2,Good,76,Moderate,1,Good,86,Moderate
+Indonesia,Manado,30,Good,0,Good,16,Good,0,Good,30,Good
+Indonesia,Salatiga,83,Moderate,2,Good,49,Good,1,Good,83,Moderate
+Indonesia,Sepatan,205,Very Unhealthy,5,Good,205,Very Unhealthy,4,Good,163,Unhealthy
+Indonesia,Pamulang,201,Very Unhealthy,5,Good,201,Very Unhealthy,4,Good,161,Unhealthy
+Indonesia,Pandaan,154,Unhealthy,3,Good,112,Unhealthy for Sensitive Groups,2,Good,154,Unhealthy
+Indonesia,Parung,171,Unhealthy,4,Good,171,Unhealthy,2,Good,150,Unhealthy
+Indonesia,Banjar,75,Moderate,1,Good,46,Good,0,Good,75,Moderate
+Indonesia,Bogor,170,Unhealthy,4,Good,170,Unhealthy,2,Good,152,Unhealthy
+Indonesia,Muntilan,71,Moderate,1,Good,37,Good,1,Good,71,Moderate
+Indonesia,Ciparay,91,Moderate,2,Good,52,Moderate,1,Good,91,Moderate
+Indonesia,Tegal,149,Unhealthy for Sensitive Groups,4,Good,25,Good,9,Good,149,Unhealthy for Sensitive Groups
+Indonesia,Tuban,61,Moderate,1,Good,15,Good,3,Good,61,Moderate
+Indonesia,Gebog,161,Unhealthy,5,Good,2,Good,22,Good,161,Unhealthy
+Indonesia,Pamanukan,156,Unhealthy,3,Good,22,Good,9,Good,156,Unhealthy
+Indonesia,Merauke,34,Good,0,Good,21,Good,0,Good,34,Good
+Indonesia,Karanganom,57,Moderate,1,Good,32,Good,0,Good,57,Moderate
+Indonesia,Bekasi,193,Unhealthy,9,Good,16,Good,29,Good,193,Unhealthy
+Indonesia,Ciledug,166,Unhealthy,7,Good,11,Good,19,Good,166,Unhealthy
+Indonesia,Ubud,35,Good,1,Good,26,Good,0,Good,35,Good
+Indonesia,Sunggal,76,Moderate,2,Good,41,Good,0,Good,76,Moderate
+Indonesia,Praya,51,Moderate,1,Good,25,Good,0,Good,51,Moderate
+Indonesia,Curug,281,Very Unhealthy,15,Good,6,Good,59,Moderate,281,Very Unhealthy
+Indonesia,Pandegelang,195,Unhealthy,8,Good,17,Good,51,Moderate,195,Unhealthy
+Indonesia,Peterongan,158,Unhealthy,3,Good,11,Good,9,Good,158,Unhealthy
+Indonesia,Bangkalan,154,Unhealthy,2,Good,79,Moderate,1,Good,154,Unhealthy
+Indonesia,Kudus,69,Moderate,2,Good,67,Moderate,1,Good,69,Moderate
+Indonesia,Majalengka,50,Good,1,Good,31,Good,1,Good,50,Good
+Indonesia,Diwek,154,Unhealthy,3,Good,126,Unhealthy for Sensitive Groups,2,Good,154,Unhealthy
+Indonesia,Dukuhturi,77,Moderate,1,Good,39,Good,0,Good,77,Moderate
+Indonesia,Gedangan,153,Unhealthy,2,Good,54,Moderate,2,Good,153,Unhealthy
+Indonesia,Mlati,49,Good,1,Good,28,Good,0,Good,49,Good
+Indonesia,Sindang,69,Moderate,1,Good,41,Good,0,Good,69,Moderate
+Indonesia,Simpang,77,Moderate,2,Good,10,Good,2,Good,77,Moderate
+Indonesia,Tulungagung,165,Unhealthy,6,Good,13,Good,14,Good,165,Unhealthy
+Indonesia,Seyegan,168,Unhealthy,7,Good,12,Good,20,Good,168,Unhealthy
+Indonesia,Mranggen,161,Unhealthy,6,Good,19,Good,15,Good,161,Unhealthy
+Indonesia,Wonosari,174,Unhealthy,7,Good,7,Good,20,Good,174,Unhealthy
+Indonesia,Atambua,28,Good,1,Good,22,Good,0,Good,28,Good
+Indonesia,Cirebon,71,Moderate,2,Good,53,Moderate,0,Good,71,Moderate
+Indonesia,Deli Tua,68,Moderate,2,Good,41,Good,0,Good,68,Moderate
+Indonesia,Jombang,113,Unhealthy for Sensitive Groups,2,Good,84,Moderate,1,Good,113,Unhealthy for Sensitive Groups
+Indonesia,Tebingtinggi,84,Moderate,2,Good,45,Good,0,Good,84,Moderate
+Indonesia,Wedi,64,Moderate,1,Good,37,Good,1,Good,64,Moderate
+Indonesia,Majene,43,Good,1,Good,21,Good,0,Good,43,Good
+Indonesia,Kebomas,158,Unhealthy,2,Good,104,Unhealthy for Sensitive Groups,1,Good,158,Unhealthy
+Indonesia,Medan,101,Unhealthy for Sensitive Groups,2,Good,54,Moderate,1,Good,101,Unhealthy for Sensitive Groups
+Indonesia,Belawan,75,Moderate,2,Good,45,Good,0,Good,75,Moderate
+Indonesia,Singojuruh,39,Good,1,Good,25,Good,0,Good,39,Good
+Indonesia,Purworejo,92,Moderate,2,Good,42,Good,2,Good,92,Moderate
+Indonesia,Bumiayu,73,Moderate,1,Good,37,Good,1,Good,73,Moderate
+Indonesia,Banyumas,62,Moderate,1,Good,36,Good,0,Good,62,Moderate
+Indonesia,Baturaden,69,Moderate,1,Good,35,Good,1,Good,69,Moderate
+Indonesia,Karangsembung,73,Moderate,1,Good,41,Good,0,Good,73,Moderate
+Indonesia,Gombong,63,Moderate,1,Good,37,Good,0,Good,63,Moderate
+Indonesia,Singosari,72,Moderate,1,Good,36,Good,1,Good,72,Moderate
+Indonesia,Mojosari,135,Unhealthy for Sensitive Groups,2,Good,62,Moderate,1,Good,135,Unhealthy for Sensitive Groups
+Indonesia,Jaten,168,Unhealthy,6,Good,8,Good,18,Good,168,Unhealthy
+Indonesia,Kendari,56,Moderate,1,Good,18,Good,0,Good,56,Moderate
+Indonesia,Polewali,30,Good,1,Good,16,Good,0,Good,30,Good
+Indonesia,Padang,57,Moderate,2,Good,32,Good,0,Good,57,Moderate
+Indonesia,Citeureup,172,Unhealthy,4,Good,172,Unhealthy,2,Good,148,Unhealthy for Sensitive Groups
+Indonesia,Trenggalek,39,Good,1,Good,25,Good,0,Good,39,Good
+Indonesia,Pangkalanbuun,28,Good,0,Good,15,Good,0,Good,28,Good
+Indonesia,Banjaran,195,Unhealthy,10,Good,10,Good,27,Good,195,Unhealthy
+Indonesia,Ciamis,60,Moderate,1,Good,36,Good,0,Good,60,Moderate
+Indonesia,Ciawi,195,Unhealthy,4,Good,195,Unhealthy,3,Good,155,Unhealthy
+Indonesia,Cilegon,182,Unhealthy,3,Good,182,Unhealthy,3,Good,145,Unhealthy for Sensitive Groups
+Indonesia,Godean,162,Unhealthy,6,Good,14,Good,17,Good,162,Unhealthy
+Indonesia,Jepara,132,Unhealthy for Sensitive Groups,3,Good,9,Good,14,Good,132,Unhealthy for Sensitive Groups
+Indonesia,Kadungora,212,Very Unhealthy,12,Good,2,Good,32,Good,212,Very Unhealthy
+Indonesia,Ketanggungan,161,Unhealthy,7,Good,17,Good,16,Good,161,Unhealthy
+Indonesia,Yogyakarta,54,Moderate,1,Good,27,Good,0,Good,54,Moderate
+Indonesia,Sampit,45,Good,1,Good,17,Good,0,Good,45,Good
+Indonesia,Sragen,66,Moderate,1,Good,37,Good,0,Good,66,Moderate
+Indonesia,Pare,78,Moderate,1,Good,43,Good,0,Good,78,Moderate
+Indonesia,Pemalang,100,Unhealthy for Sensitive Groups,2,Good,51,Moderate,1,Good,100,Unhealthy for Sensitive Groups
+Indonesia,Taman,124,Unhealthy for Sensitive Groups,1,Good,39,Good,1,Good,124,Unhealthy for Sensitive Groups
+Indonesia,Ende,23,Good,1,Good,23,Good,0,Good,16,Good
+Indonesia,Banda Aceh,17,Good,0,Good,17,Good,0,Good,17,Good
+Indonesia,Plumbon,54,Moderate,1,Good,39,Good,0,Good,54,Moderate
+Indonesia,Gambiran,37,Good,1,Good,24,Good,0,Good,37,Good
+Indonesia,Gampengrejo,73,Moderate,1,Good,38,Good,0,Good,73,Moderate
+Indonesia,Gempol,158,Unhealthy,2,Good,73,Moderate,1,Good,158,Unhealthy
+Indonesia,Loa Janan,54,Moderate,1,Good,15,Good,0,Good,54,Moderate
+Indonesia,Manokwari,10,Good,0,Good,10,Good,0,Good,10,Good
+Indonesia,Paseh,66,Moderate,1,Good,41,Good,0,Good,66,Moderate
+Indonesia,Singkang,34,Good,1,Good,19,Good,0,Good,34,Good
+Indonesia,Singkawang,61,Moderate,1,Good,14,Good,0,Good,61,Moderate
+Indonesia,Negara,67,Moderate,3,Good,21,Good,3,Good,67,Moderate
+Indonesia,Panarukan,85,Moderate,3,Good,17,Good,4,Good,85,Moderate
+Indonesia,Babakan,54,Moderate,1,Good,34,Good,0,Good,54,Moderate
+Indonesia,Cileunyi,64,Moderate,1,Good,37,Good,1,Good,64,Moderate
+Indonesia,Tomohon,24,Good,1,Good,16,Good,0,Good,24,Good
+Indonesia,Bengkalis,38,Good,1,Good,19,Good,0,Good,38,Good
+Indonesia,Cidahu,112,Unhealthy for Sensitive Groups,2,Good,88,Moderate,1,Good,112,Unhealthy for Sensitive Groups
+Indonesia,Delanggu,208,Very Unhealthy,13,Good,3,Good,24,Good,208,Very Unhealthy
+Indonesia,Srono,90,Moderate,3,Good,18,Good,4,Good,90,Moderate
+Indonesia,Kepanjen,41,Good,1,Good,26,Good,0,Good,41,Good
+Indonesia,Kawalu,58,Moderate,1,Good,34,Good,0,Good,58,Moderate
+Indonesia,Tangerang,201,Very Unhealthy,5,Good,201,Very Unhealthy,3,Good,167,Unhealthy
+Indonesia,Bae,80,Moderate,2,Good,69,Moderate,1,Good,80,Moderate
+Indonesia,Cisarua,144,Unhealthy for Sensitive Groups,3,Good,144,Unhealthy for Sensitive Groups,1,Good,115,Unhealthy for Sensitive Groups
+Indonesia,Wonogiri,51,Moderate,1,Good,28,Good,0,Good,51,Moderate
+Indonesia,Gorontalo,25,Good,0,Good,15,Good,0,Good,25,Good
+Indonesia,Purbalingga,66,Moderate,1,Good,44,Good,1,Good,66,Moderate
+Indonesia,Ceper,67,Moderate,1,Good,38,Good,1,Good,67,Moderate
+Indonesia,Maumere,60,Moderate,1,Good,26,Good,0,Good,60,Moderate
+Indonesia,Dampit,53,Moderate,1,Good,31,Good,0,Good,53,Moderate
+Indonesia,Bitung,28,Good,0,Good,15,Good,0,Good,28,Good
+Indonesia,Pekalongan,123,Unhealthy for Sensitive Groups,4,Good,123,Unhealthy for Sensitive Groups,1,Good,123,Unhealthy for Sensitive Groups
+Indonesia,Pemangkat,39,Good,1,Good,16,Good,0,Good,39,Good
+Indonesia,Babat,159,Unhealthy,3,Good,135,Unhealthy for Sensitive Groups,1,Good,159,Unhealthy
+Indonesia,Kresek,203,Very Unhealthy,4,Good,203,Very Unhealthy,4,Good,158,Unhealthy
+Indonesia,Sewon,67,Moderate,1,Good,36,Good,1,Good,67,Moderate
+Indonesia,Semarang,160,Unhealthy,5,Good,17,Good,17,Good,160,Unhealthy
+Indonesia,Rangkasbitung,225,Very Unhealthy,11,Good,9,Good,63,Moderate,225,Very Unhealthy
+Indonesia,Rantauprapat,97,Moderate,3,Good,2,Good,5,Good,97,Moderate
+Indonesia,Buaran,152,Unhealthy,5,Good,27,Good,9,Good,152,Unhealthy
+Indonesia,Soreang,188,Unhealthy,10,Good,5,Good,27,Good,188,Unhealthy
+Indonesia,Grogol,170,Unhealthy,6,Good,7,Good,21,Good,170,Unhealthy
+Indonesia,Pecangakan,150,Unhealthy,3,Good,10,Good,16,Good,150,Unhealthy
+Indonesia,Dumai,70,Moderate,2,Good,16,Good,0,Good,70,Moderate
+Indonesia,Lahat,109,Unhealthy for Sensitive Groups,4,Good,3,Good,6,Good,109,Unhealthy for Sensitive Groups
+Indonesia,Lhokseumawe,88,Moderate,2,Good,21,Good,2,Good,88,Moderate
+Indonesia,Samarinda,57,Moderate,1,Good,7,Good,2,Good,57,Moderate
+Indonesia,Sampang,53,Moderate,1,Good,20,Good,0,Good,53,Moderate
+Indonesia,Cikeruh,76,Moderate,1,Good,39,Good,1,Good,76,Moderate
+Indonesia,Cimahi,104,Unhealthy for Sensitive Groups,2,Good,93,Moderate,1,Good,104,Unhealthy for Sensitive Groups
+Indonesia,Sigli,40,Good,1,Good,35,Good,0,Good,40,Good
+Indonesia,Situbondo,51,Moderate,1,Good,32,Good,0,Good,51,Moderate
+Indonesia,Lawang,83,Moderate,2,Good,40,Good,1,Good,83,Moderate
+Indonesia,Magelang,60,Moderate,1,Good,32,Good,0,Good,60,Moderate
+Indonesia,Nabire,24,Good,1,Good,7,Good,0,Good,24,Good
+Indonesia,Pedan,193,Unhealthy,10,Good,6,Good,20,Good,193,Unhealthy
+Indonesia,Waru,155,Unhealthy,3,Good,117,Unhealthy for Sensitive Groups,1,Good,155,Unhealthy
+Indonesia,Kanigoro,38,Good,1,Good,24,Good,0,Good,38,Good
+Indonesia,Kedungwuni,83,Moderate,2,Good,46,Good,1,Good,83,Moderate
+Indonesia,Comal,102,Unhealthy for Sensitive Groups,2,Good,55,Moderate,1,Good,102,Unhealthy for Sensitive Groups
+Indonesia,Gondanglegi,50,Good,1,Good,29,Good,0,Good,50,Good
+Indonesia,Garut,69,Moderate,1,Good,33,Good,1,Good,69,Moderate
+Indonesia,Karangasem,44,Good,1,Good,26,Good,0,Good,44,Good
+Indonesia,Karawang,124,Unhealthy for Sensitive Groups,3,Good,124,Unhealthy for Sensitive Groups,1,Good,91,Moderate
+Indonesia,Serang,195,Unhealthy,4,Good,195,Unhealthy,3,Good,161,Unhealthy
+Indonesia,Perbaungan,76,Moderate,2,Good,41,Good,0,Good,76,Moderate
+Indonesia,Jogonalan,59,Moderate,1,Good,28,Good,1,Good,59,Moderate
+Indonesia,Klaten,48,Good,1,Good,27,Good,0,Good,48,Good
+Indonesia,Tondano,29,Good,0,Good,15,Good,0,Good,29,Good
+Indonesia,Bambanglipuro,37,Good,1,Good,24,Good,0,Good,37,Good
+Indonesia,Singaraja,48,Good,1,Good,30,Good,0,Good,48,Good
+Indonesia,Bulakamba,83,Moderate,2,Good,45,Good,1,Good,83,Moderate
+Indonesia,Cisaat,140,Unhealthy for Sensitive Groups,2,Good,91,Moderate,1,Good,140,Unhealthy for Sensitive Groups
+Indonesia,Cianjur,96,Moderate,2,Good,78,Moderate,1,Good,96,Moderate
+Indonesia,Cibinong,173,Unhealthy,4,Good,173,Unhealthy,3,Good,150,Unhealthy
+Indonesia,Besuki,58,Moderate,1,Good,37,Good,0,Good,58,Moderate
+Indonesia,Rengasdengklok,98,Moderate,2,Good,84,Moderate,1,Good,98,Moderate
+Indonesia,Ruteng,24,Good,1,Good,24,Good,0,Good,19,Good
+Indonesia,Sukabumi,97,Moderate,2,Good,67,Moderate,1,Good,97,Moderate
+Indonesia,Balapulang,78,Moderate,2,Good,62,Moderate,1,Good,78,Moderate
+Indonesia,Jember,46,Good,1,Good,27,Good,0,Good,46,Good
+Indonesia,Tambun,147,Unhealthy for Sensitive Groups,3,Good,147,Unhealthy for Sensitive Groups,1,Good,128,Unhealthy for Sensitive Groups
+Indonesia,Wates,73,Moderate,1,Good,39,Good,0,Good,73,Moderate
+Indonesia,Lumajang,42,Good,1,Good,26,Good,0,Good,42,Good
+Indonesia,Tanggul,160,Unhealthy,6,Good,9,Good,12,Good,160,Unhealthy
+Indonesia,Barabai,67,Moderate,2,Good,5,Good,2,Good,67,Moderate
+Indonesia,Palabuhanratu,164,Unhealthy,6,Good,25,Good,14,Good,164,Unhealthy
+Indonesia,Cepu,76,Moderate,2,Good,64,Moderate,1,Good,76,Moderate
+Indonesia,Cibitung,152,Unhealthy,3,Good,152,Unhealthy,1,Good,111,Unhealthy for Sensitive Groups
+Indonesia,Cikupa,207,Very Unhealthy,5,Good,207,Very Unhealthy,4,Good,166,Unhealthy
+Indonesia,Amuntai,45,Good,1,Good,15,Good,0,Good,45,Good
+Indonesia,Rajapolah,58,Moderate,1,Good,35,Good,0,Good,58,Moderate
+Indonesia,Mentok,50,Good,1,Good,30,Good,0,Good,50,Good
+Indonesia,Parakan,99,Moderate,2,Good,57,Moderate,1,Good,99,Moderate
+Indonesia,Ngemplak,63,Moderate,1,Good,35,Good,0,Good,63,Moderate
+Indonesia,Ambarawa,86,Moderate,2,Good,53,Moderate,1,Good,86,Moderate
+Indonesia,Cibadak,181,Unhealthy,4,Good,181,Unhealthy,3,Good,157,Unhealthy
+Indonesia,Adiwerna,92,Moderate,2,Good,49,Good,1,Good,92,Moderate
+Indonesia,Depok,60,Moderate,1,Good,33,Good,0,Good,60,Moderate
+Indonesia,Rantepao,14,Good,0,Good,14,Good,0,Good,14,Good
+Indonesia,Sumenep,51,Moderate,1,Good,35,Good,0,Good,51,Moderate
+Indonesia,Karanganyar,72,Moderate,1,Good,35,Good,0,Good,72,Moderate
+Indonesia,Kasihan,57,Moderate,1,Good,33,Good,0,Good,57,Moderate
+Indonesia,Teluk Nibung,64,Moderate,2,Good,32,Good,0,Good,64,Moderate
+Indonesia,Srandakan,42,Good,1,Good,24,Good,0,Good,42,Good
+Indonesia,Wanasari,93,Moderate,2,Good,46,Good,1,Good,93,Moderate
+Indonesia,Luwuk,18,Good,0,Good,18,Good,0,Good,9,Good
+Indonesia,Sinjai,20,Good,1,Good,20,Good,0,Good,16,Good
+Indonesia,Selogiri,46,Good,1,Good,26,Good,0,Good,46,Good
+Indonesia,Kediri,51,Moderate,1,Good,30,Good,0,Good,51,Moderate
+Indonesia,Jambi,81,Moderate,2,Good,41,Good,0,Good,81,Moderate
+Indonesia,Jatibarang,91,Moderate,2,Good,83,Moderate,1,Good,91,Moderate
+Indonesia,Juwana,90,Moderate,2,Good,73,Moderate,1,Good,90,Moderate
+Indonesia,Kuningan,56,Moderate,1,Good,31,Good,0,Good,56,Moderate
+Indonesia,Bangil,155,Unhealthy,3,Good,96,Moderate,2,Good,155,Unhealthy
+Indonesia,Ciputat,202,Very Unhealthy,5,Good,202,Very Unhealthy,3,Good,168,Unhealthy
+Indonesia,Ambulu,54,Moderate,1,Good,33,Good,0,Good,54,Moderate
+Indonesia,Buduran,158,Unhealthy,3,Good,133,Unhealthy for Sensitive Groups,1,Good,158,Unhealthy
+Indonesia,Cibeureum,63,Moderate,1,Good,40,Good,0,Good,63,Moderate
+Indonesia,Mayong,80,Moderate,2,Good,80,Moderate,1,Good,77,Moderate
+Indonesia,Pandak,56,Moderate,1,Good,34,Good,0,Good,56,Moderate
+Indonesia,Panji,52,Moderate,1,Good,32,Good,0,Good,52,Moderate
+Indonesia,Bondowoso,47,Good,1,Good,29,Good,0,Good,47,Good
+Indonesia,Kisaran,71,Moderate,2,Good,36,Good,0,Good,71,Moderate
+Indonesia,Padalarang,103,Unhealthy for Sensitive Groups,2,Good,81,Moderate,1,Good,103,Unhealthy for Sensitive Groups
+Indonesia,Cicalengka,101,Unhealthy for Sensitive Groups,2,Good,63,Moderate,1,Good,101,Unhealthy for Sensitive Groups
+Indonesia,Ciomas,137,Unhealthy for Sensitive Groups,3,Good,121,Unhealthy for Sensitive Groups,2,Good,137,Unhealthy for Sensitive Groups
+Indonesia,Purwokerto,178,Unhealthy,9,Good,14,Good,22,Good,178,Unhealthy
+Indonesia,Jatiroto,163,Unhealthy,6,Good,10,Good,13,Good,163,Unhealthy
+Indonesia,Kefamenanu,70,Moderate,1,Good,16,Good,0,Good,70,Moderate
+Indonesia,Banyuwangi,101,Unhealthy for Sensitive Groups,3,Good,19,Good,4,Good,101,Unhealthy for Sensitive Groups
+Indonesia,Gamping,164,Unhealthy,6,Good,12,Good,18,Good,164,Unhealthy
+Indonesia,Labuhan,176,Unhealthy,3,Good,176,Unhealthy,1,Good,137,Unhealthy for Sensitive Groups
+Indonesia,Nganjuk,172,Unhealthy,6,Good,6,Good,19,Good,172,Unhealthy
+Indonesia,Ambon,27,Good,0,Good,14,Good,0,Good,27,Good
+Indonesia,Kraksaan,69,Moderate,2,Good,40,Good,1,Good,69,Moderate
+Indonesia,Kroya,64,Moderate,1,Good,40,Good,1,Good,64,Moderate
+Indonesia,Poso,23,Good,1,Good,11,Good,0,Good,23,Good
+Indonesia,Temanggung,87,Moderate,2,Good,58,Moderate,1,Good,87,Moderate
+Indonesia,Weru,68,Moderate,2,Good,49,Good,0,Good,68,Moderate
+Indonesia,Stabat,55,Moderate,2,Good,41,Good,0,Good,55,Moderate
+Indonesia,Trucuk,66,Moderate,1,Good,35,Good,1,Good,66,Moderate
+Indonesia,Payakumbuh,61,Moderate,1,Good,25,Good,0,Good,61,Moderate
+Indonesia,Tanggulangin,165,Unhealthy,3,Good,111,Unhealthy for Sensitive Groups,1,Good,165,Unhealthy
+Indonesia,Randudongkal,188,Unhealthy,11,Good,8,Good,26,Good,188,Unhealthy
+Indonesia,Lasem,93,Moderate,2,Good,52,Moderate,1,Good,93,Moderate
+Indonesia,Karangampel,72,Moderate,1,Good,44,Good,0,Good,72,Moderate
+Indonesia,Madiun,169,Unhealthy,6,Good,3,Good,20,Good,169,Unhealthy
+Indonesia,Margasari,187,Unhealthy,10,Good,8,Good,25,Good,187,Unhealthy
+Indonesia,Tasikmalaya,56,Moderate,1,Good,27,Good,0,Good,56,Moderate
+Indonesia,Purwodadi,69,Moderate,1,Good,49,Good,0,Good,69,Moderate
+Indonesia,Pati,79,Moderate,2,Good,67,Moderate,1,Good,79,Moderate
+Indonesia,Astanajapura,61,Moderate,1,Good,36,Good,0,Good,61,Moderate
+Indonesia,Cikarang,132,Unhealthy for Sensitive Groups,3,Good,132,Unhealthy for Sensitive Groups,1,Good,127,Unhealthy for Sensitive Groups
+Indonesia,Batu,78,Moderate,1,Good,35,Good,1,Good,78,Moderate
+Indonesia,Sawangan,205,Very Unhealthy,5,Good,205,Very Unhealthy,4,Good,171,Unhealthy
+Indonesia,Denpasar,39,Good,1,Good,24,Good,0,Good,39,Good
+Indonesia,Sooko,140,Unhealthy for Sensitive Groups,2,Good,71,Moderate,1,Good,140,Unhealthy for Sensitive Groups
+Indonesia,Jatiwangi,63,Moderate,1,Good,37,Good,1,Good,63,Moderate
+Indonesia,Soe,21,Good,0,Good,19,Good,0,Good,21,Good
+Indonesia,Blora,81,Moderate,2,Good,69,Moderate,1,Good,81,Moderate
+Indonesia,Majalaya,84,Moderate,2,Good,48,Good,1,Good,84,Moderate
+Indonesia,Palimanan,67,Moderate,1,Good,48,Good,1,Good,67,Moderate
+Indonesia,Labuhan Deli,103,Unhealthy for Sensitive Groups,2,Good,63,Moderate,1,Good,103,Unhealthy for Sensitive Groups
+Indonesia,Tarakan,21,Good,1,Good,11,Good,0,Good,21,Good
+Indonesia,Pasarkemis,249,Very Unhealthy,11,Good,10,Good,49,Good,249,Very Unhealthy
+Indonesia,Sumedang,67,Moderate,1,Good,37,Good,0,Good,67,Moderate
+Indonesia,Metro,63,Moderate,1,Good,39,Good,0,Good,63,Moderate
+Indonesia,Kertosono,169,Unhealthy,5,Good,10,Good,15,Good,169,Unhealthy
+Indonesia,Porong,166,Unhealthy,3,Good,11,Good,9,Good,166,Unhealthy
+Indonesia,Ungaran,76,Moderate,1,Good,42,Good,1,Good,76,Moderate
+Indonesia,Jetis,63,Moderate,1,Good,30,Good,1,Good,63,Moderate
+Indonesia,Ngawi,73,Moderate,1,Good,40,Good,0,Good,73,Moderate
+Indonesia,Langsa,72,Moderate,1,Good,38,Good,0,Good,72,Moderate
+Indonesia,Solok,61,Moderate,1,Good,32,Good,0,Good,61,Moderate
+Indonesia,Kemang,95,Moderate,2,Good,90,Moderate,1,Good,95,Moderate
+Indonesia,Lembang,194,Unhealthy,9,Good,12,Good,26,Good,194,Unhealthy
+Indonesia,Mendahara,76,Moderate,2,Good,37,Good,0,Good,76,Moderate
+Indonesia,Subang,88,Moderate,2,Good,86,Moderate,1,Good,88,Moderate
+Indonesia,Pangkah,91,Moderate,2,Good,46,Good,1,Good,91,Moderate
+Indonesia,Surakarta,69,Moderate,1,Good,41,Good,1,Good,69,Moderate
+Indonesia,Ponorogo,42,Good,1,Good,26,Good,0,Good,42,Good
+Indonesia,Tanjung Morawa,72,Moderate,2,Good,42,Good,0,Good,72,Moderate
+Indonesia,Baki,60,Moderate,1,Good,33,Good,0,Good,60,Moderate
+Indonesia,Pasuruan,99,Moderate,1,Good,43,Good,1,Good,99,Moderate
+Indonesia,Plered,116,Unhealthy for Sensitive Groups,3,Good,116,Unhealthy for Sensitive Groups,1,Good,112,Unhealthy for Sensitive Groups
+Indonesia,Ngawen,60,Moderate,1,Good,33,Good,0,Good,60,Moderate
+Indonesia,Pundong,160,Unhealthy,5,Good,16,Good,15,Good,160,Unhealthy
+Indonesia,Wonopringgo,163,Unhealthy,6,Good,21,Good,14,Good,163,Unhealthy
+Indonesia,Majenang,62,Moderate,1,Good,41,Good,1,Good,62,Moderate
+Indonesia,Cikampek,116,Unhealthy for Sensitive Groups,3,Good,116,Unhealthy for Sensitive Groups,1,Good,93,Moderate
+Indonesia,Galesong,46,Good,1,Good,26,Good,0,Good,46,Good
+Indonesia,Baturaja,68,Moderate,2,Good,38,Good,0,Good,68,Moderate
+Indonesia,Blitar,39,Good,1,Good,25,Good,0,Good,39,Good
+Indonesia,Bengkulu,75,Moderate,2,Good,37,Good,0,Good,75,Moderate
+Indonesia,Biak,15,Good,0,Good,15,Good,0,Good,5,Good
+Indonesia,Mundu,55,Moderate,1,Good,41,Good,0,Good,55,Moderate
+Indonesia,Jeluko,80,Moderate,2,Good,49,Good,1,Good,80,Moderate
+Indonesia,Kadipaten,63,Moderate,1,Good,37,Good,0,Good,63,Moderate
+Indonesia,Indramayu,98,Moderate,2,Good,29,Good,2,Good,98,Moderate
+Indonesia,Bandar,51,Moderate,1,Good,22,Good,0,Good,51,Moderate
+Indonesia,Serpong,297,Very Unhealthy,14,Good,10,Good,51,Moderate,297,Very Unhealthy
+Indonesia,Kedungwaru,51,Moderate,1,Good,30,Good,0,Good,51,Moderate
+Indonesia,Tulangan,164,Unhealthy,3,Good,10,Good,10,Good,164,Unhealthy
+Indonesia,Arjawinangun,68,Moderate,2,Good,57,Moderate,1,Good,68,Moderate
+Indonesia,Magetan,42,Good,1,Good,26,Good,0,Good,42,Good
+Indonesia,Singaparna,52,Moderate,1,Good,29,Good,0,Good,52,Moderate
+Indonesia,Jati,81,Moderate,2,Good,49,Good,1,Good,81,Moderate
+Indonesia,Bireun,74,Moderate,1,Good,31,Good,0,Good,74,Moderate
+Indonesia,Tabanan,39,Good,1,Good,24,Good,0,Good,39,Good
+Indonesia,Tarub,86,Moderate,2,Good,49,Good,0,Good,86,Moderate
+Indonesia,Pakisaji,23,Good,0,Good,22,Good,0,Good,23,Good
+Indonesia,Bantul,46,Good,1,Good,25,Good,0,Good,46,Good
+Indonesia,Slawi,92,Moderate,2,Good,86,Moderate,1,Good,92,Moderate
+Indonesia,Curup,69,Moderate,1,Good,29,Good,0,Good,69,Moderate
+Indonesia,Gondang,177,Unhealthy,7,Good,9,Good,17,Good,177,Unhealthy
+Indonesia,Jakarta,197,Unhealthy,4,Good,197,Unhealthy,3,Good,155,Unhealthy
+Indonesia,Kencong,54,Moderate,1,Good,32,Good,0,Good,54,Moderate
+Indonesia,Palu,50,Good,1,Good,7,Good,1,Good,50,Good
+Indonesia,Makasar,67,Moderate,2,Good,25,Good,1,Good,67,Moderate
+Indonesia,Rancaekek,207,Very Unhealthy,12,Good,3,Good,31,Good,207,Very Unhealthy
+Indonesia,Katobu,22,Good,0,Good,18,Good,0,Good,22,Good
+Indonesia,Demak,85,Moderate,1,Good,47,Good,1,Good,85,Moderate
+Indonesia,Klungkung,33,Good,1,Good,25,Good,0,Good,33,Good
+Indonesia,Tayu,100,Unhealthy for Sensitive Groups,2,Good,100,Unhealthy for Sensitive Groups,1,Good,89,Moderate
+Indonesia,Teluknaga,188,Unhealthy,4,Good,188,Unhealthy,3,Good,163,Unhealthy
+Indonesia,Krian,161,Unhealthy,3,Good,137,Unhealthy for Sensitive Groups,1,Good,161,Unhealthy
+Indonesia,Manggar,34,Good,0,Good,19,Good,0,Good,34,Good
+Indonesia,Mojokerto,150,Unhealthy,3,Good,91,Moderate,1,Good,150,Unhealthy
+Indonesia,Kualakapuas,71,Moderate,1,Good,11,Good,2,Good,71,Moderate
+Indonesia,Boyolangu,48,Good,1,Good,28,Good,0,Good,48,Good
+Indonesia,Tanete,57,Moderate,1,Good,23,Good,1,Good,57,Moderate
+Indonesia,Ngunut,51,Moderate,1,Good,26,Good,0,Good,51,Moderate
+Indonesia,Welahan,96,Moderate,2,Good,87,Moderate,2,Good,96,Moderate
+Indonesia,Muncar,37,Good,1,Good,24,Good,0,Good,37,Good
+Indonesia,Margahayu,98,Moderate,2,Good,73,Moderate,1,Good,98,Moderate
+Indonesia,Prambanan,55,Moderate,1,Good,27,Good,0,Good,55,Moderate
+Indonesia,Kabanjahe,22,Good,0,Good,18,Good,0,Good,22,Good
