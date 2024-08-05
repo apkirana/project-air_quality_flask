@@ -21,10 +21,16 @@ This project is a Flask web application that provides information about air qual
 4. Run the flask application: flask run
 5. Open your browser and navigate to http://127.0.0.1:5000 to view the application.
 
-## Contributing
+## Usage
+Open the `flask_air_quality.py` and run it
 
-Contributions are welcome! Please fork the repository and submit a pull request.
+## Contributing
+Contributions to enhance the analysis or improve the predictive models are welcome. Please fork the repository and submit a pull request with your changes.
 
 ## License
+Distributed under the MIT License. See `LICENSE` for more information.
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+## Contact
+- **Project Link**: [Air Quality Analysis on GitHub](https://github.com/apkirana/air-quality-analysis)
+- **LinkedIn:** [Annisa Puspa Kirana](https://id.linkedin.com/in/annisapuspakirana/en)
+- **Social Links:** [linktr.ee/puspakirana](http://linktr.ee/puspakirana)
