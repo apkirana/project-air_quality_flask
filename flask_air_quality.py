@@ -5,9 +5,11 @@
 
 from flask import Flask, render_template
 import pandas as pd
-import matplotlib.pyplot as plt
 import seaborn as sns
 import os
+import matplotlib
+matplotlib.use('Agg')  # Use the 'Agg' backend, which is designed for generating files, not for interactive use.
+import matplotlib.pyplot as plt
 
 app = Flask(__name__)
 
@@ -19,7 +21,7 @@ def home():
 
     # Generate a plot
     plt.figure(figsize=(10, 6))
-    sns.scatterplot(x='PM2.5', y='AQI', data=df)
+    sns.scatterplot(x='pm2.5_aqi_value', y=kde=True, data=df)
     plt.title('PM2.5 vs AQI')
     plt.xlabel('PM2.5')
     plt.ylabel('AQI')
