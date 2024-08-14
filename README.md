@@ -1,6 +1,12 @@
 # Air Quality Flask
 This project is a Flask web application that provides information about air quality. It leverages data analysis and visualization to present insights on air quality metrics.
 
+## Screenshot
+
+![Screenshot of the application](https://github.com/apkirana/project-air_quality_flask/blob/main/view%20app.png)
+
+Here is a screenshot of the application in action.
+
 ## Features
 
 - Display air quality metrics
