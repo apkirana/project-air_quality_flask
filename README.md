@@ -1,42 +1,66 @@
 # Air Quality Flask
-This project is a Flask web application that provides information about air quality. It leverages data analysis and visualization to present insights on air quality metrics.
+
+A small Flask web application that serves air-quality analysis over a global pollution dataset —
+the analysis from [project-air-quality-analysis](https://github.com/apkirana/project-air-quality-analysis)
+wrapped in a web front end so the plots can be read without opening a notebook.
 
 ## Screenshot
 
-![Screenshot of the application](https://github.com/apkirana/project-air_quality_flask/blob/main/view%20app.png)
-
-Here is a screenshot of the application in action.
+![The application showing air-quality metrics and a generated plot](https://raw.githubusercontent.com/apkirana/project-air_quality_flask/main/view%20app.png)
 
 ## Features
 
-- Display air quality metrics
-- Data visualization
-- Flask web application
+- Serves air-quality metrics from `data/global_air_pollution_data.csv`
+- Generates a Matplotlib plot rendered into the page (`static/plot.png`)
+- Single-file Flask app, easy to read end to end
 
-## Installation
+## Repository structure
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/apkirana/air_quality_flask.git
-   cd air_quality_flask
-2. Create and activate a virtual environment:
-   python3 -m venv venv
-   source venv/bin/activate   # On Windows use `venv\Scripts\activate`
-3. Install the required packages
-   pip install -r requirements.txt
-4. Run the flask application: flask run
-5. Open your browser and navigate to http://127.0.0.1:5000 to view the application.
+```text
+flask_air_quality.py   - the Flask application
+air_quality.ipynb      - exploratory notebook the app is based on
+data/                  - global pollution dataset and a filtered subset
+templates/index.html   - page template
+static/plot.png        - generated figure
+```
 
-## Usage
-Open the `flask_air_quality.py` and run it
+## Running it
+
+```bash
+git clone https://github.com/apkirana/project-air_quality_flask.git
+cd project-air_quality_flask
+
+python3 -m venv venv
+source venv/bin/activate          # Windows: venv\Scripts\activate
+pip install -r requirements.txt
+
+python flask_air_quality.py
+```
+
+Then open <http://127.0.0.1:5000>.
+
+## Related work
+
+- [project-air-quality-analysis](https://github.com/apkirana/project-air-quality-analysis) — the underlying PM2.5 / AQI analysis
+- [project_polusikalimantan](https://github.com/apkirana/project_polusikalimantan) — spatio-temporal PM2.5 study across Kalimantan
+- [project_eucairpollution](https://github.com/apkirana/project_eucairpollution) — agentic multi-agent AQI forecasting system
 
 ## Contributing
-Contributions to enhance the analysis or improve the predictive models are welcome. Please fork the repository and submit a pull request with your changes.
 
-## License
-Distributed under the MIT License. See `LICENSE` for more information.
+Issues and pull requests are welcome.
 
-## Contact
-- **Project Link**: [Air Quality Analysis on GitHub](https://github.com/apkirana/air-quality-analysis)
-- **LinkedIn:** [Annisa Puspa Kirana](https://id.linkedin.com/in/annisapuspakirana/en)
-- **Social Links:** [linktr.ee/puspakirana](http://linktr.ee/puspakirana)
+## Licence
+
+MIT — see [LICENSE](LICENSE).
+
+---
+
+## Author
+
+**Annisa Puspa Kirana** — PhD researcher, Faculty of Geo-Information Science and Earth Observation (ITC),
+University of Twente. Research on agentic AI and LLM-driven workflows for Earth observation.
+
+[Google Scholar](https://scholar.google.com/citations?user=BQl6KOsAAAAJ&hl=en) ·
+[ORCID](https://orcid.org/0000-0002-4622-1445) ·
+[LinkedIn](https://www.linkedin.com/in/annisapuspakirana) ·
+[GitHub](https://github.com/apkirana)
